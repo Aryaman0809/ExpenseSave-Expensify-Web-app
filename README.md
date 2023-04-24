@@ -54,6 +54,6 @@ Cash Flow Report : A detailed analysis of user's spendingd with visualisations m
 | -------| -------------------| -----------------------------| ----------------|
 | 1.     | Varshaah Karkala   | varshaah.k@somaiya.edu       | 16010120193     |
 | 2.     | Shruti Tyagi       | shruti.tyagi@somaiya.edu     | 16010120202     |
+| 3.     | Aryaman Tiwary     | aryaman.tiwary@somaiya.edu   | 16010420077     |
 
-## Institute
-![somaiya logo](https://user-images.githubusercontent.com/79756939/144486512-eb0cba46-18a8-4ce8-bf5c-0d256ea5d46b.jpeg)
+
